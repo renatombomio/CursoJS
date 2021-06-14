@@ -1,20 +1,16 @@
 /* 1. Escribe un programa en JavaScript que realice las siguientes tareas:
-
 Mostrar por pantalla la expresión "Hola Mundo".
 Mostrar por pantalla la expresión 5*5 como texto.
 Mostrar por pantalla el resultado de la expresión 5*5.*/ 
 /*
 console.log("Hola mundo");
 console.log("5 * 5");
-
 let numeroUno = 5;
 let numeroDos = 5;
-
 console.log(numeroUno * numeroDos);*/
 
 
 /*2. Realiza la siguientes tareas en el código js
-
 Declara una variable constante con el nombre fijo y dale un valor booleano de true
 Declara una variable con el nombre numero y dale un valor de texto de 1
 Declara una variable con el nombre numeroCorrecto y asígnale el valor numérico de la variable del apartado anterior
@@ -62,15 +58,12 @@ if (numeroPar %2 == 0) {
 }*/
 
 /*5. Pedir al usuario un nombre y una letra en prompts diferentes.
-
  Una vez metido esto saltará una alerta indicando si el nombre contiene la letra.
  En caso de ser positivo también dirá el número de letras que tiene */
 
  /*let nombre = prompt ("Introduce un nombre");
  let letra = prompt ("Introduce una letra");
-
  if (nombre.indexOf(letra)!= -1) {
-
     let contador =0;
     for (let index = 0; index < nombre.length; index++) {
         if (nombre.charAt(index) == letra) {
@@ -83,7 +76,6 @@ if (numeroPar %2 == 0) {
 */
 
 /* 6. Pedir dos numero por entrada del usuario indique por consola:
-
 cuál de los dos es mayor. En el caso de ser iguales también lo indicará
 si se introduce números menores que 0 o letras que salte una alerta indicando el error */
 
